@@ -1,1 +1,1 @@
-# day-1-basic
+# day-1-basics
